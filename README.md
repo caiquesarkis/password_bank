@@ -1,6 +1,11 @@
 # Password Bank
 
-A simple way to have all your passwords in one secure place! 
+App link https://password-bank.netlify.app/
+
+> A draft of a password bank. 
+
+Features
+- Save your passwords in a list so you don't forget them.
 
 Technologies
 - React
@@ -10,3 +15,4 @@ Technologies
 - Javascript
 
 Author @caiquesarkis
+
